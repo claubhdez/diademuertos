@@ -1,0 +1,23 @@
+
+$amarillo:#fff601;
+$rosa:#e20c82;
+
+
+h2{
+    text-align: center;
+    margin:20px;
+    font-family: "Montserrat-Medium";
+    font-size: 35px;
+    color: $amarillo;
+  }
+
+h3{
+    color: $amarillo;
+    font-family: "Montserrat-Medium";
+    font-size: 25px;
+    text-align: center;
+}
+
+
+@import "gral";
+@import "footer";
